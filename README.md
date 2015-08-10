@@ -17,4 +17,4 @@ Camera  | 4.9 MP, 2048 x 1536 pixels
 Release Date | July 2014
 
 
-![LG G Pad 10.1](http://imgur.com/VZnwD78 "LG G Pad 10.1")
+![LG G Pad 7.0 WIFI](http://imgur.com/VZnwD78 "LG G Pad 7.0 WIFI")
