@@ -10,7 +10,7 @@ Memory  | 1GB RAM
 Shipped Android Version | 4.4.2
 Storage | 16GB
 MicroSD | Up to 64GB
-Battery | 4000 mAh
+Battery | 8000 mAh
 Dimensions | 260.9 x 165.9 x 8.9 mm
 Display | 800 x 1280 pixels IPS LCD
 Camera  | 4.9 MP, 2048 x 1536 pixels
